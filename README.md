@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muskan-Bishnoi
-- 📫 Reach me at linkedin @muskan-bishnoi
+- 📫 Reach me at linkedin [@muskan-bishnoi](https://www.linkedin.com/in/muskan-bishnoi-74b364314/)
 - 🏗️ Building secure and scalable backend systems with FastAPI.
 - ☁️ Deploying applications on Azure Cloud.
 - 📊 Exploring AI & Machine Learning.
